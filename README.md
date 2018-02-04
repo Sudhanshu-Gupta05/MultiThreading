@@ -8,8 +8,9 @@ A simple C++ program demonstrating C++ 11 multithreading api's.
 Input :        char Arr1[6] = {'a','b','c','d','e','f'};       
 int  Arr2[6] = {1,2,3,4,5,6} 
 
-Output :       
+Output :
+
 a1b2c3d4e5f6 
 a1b2c3d4e5f6
-a1b2c3d4e5f6 
-a1b2c3d4e5f6....
+a1b2c3d4e5f6 a
+1b2c3d4e5f6....
